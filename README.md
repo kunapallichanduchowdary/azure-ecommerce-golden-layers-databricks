@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Data Engineering Pipeline using Azure & Databricks(https://drive.google.com/file/d/10qHQQDz7gKGuPXW_bbjYMtK-ASKiF2c1/view?usp=sharing)
+# 🛒 E-Commerce Data Engineering Pipeline using Azure & Databricks
 
 This project demonstrates a full **end-to-end data pipeline** for an e-commerce company using **Azure Databricks**, **Data Lake**, and **Spark**. It showcases how raw transactional data is ingested, processed, transformed, and made analytics-ready through a structured medallion architecture (Bronze → Silver → Gold layers).
 
@@ -17,6 +17,7 @@ This project demonstrates a full **end-to-end data pipeline** for an e-commerce 
 ---
 
 ## 📁 Folder Structure ecommerce_pipeline_azure_databricks.zip
+## 📁 complete Structure link via google drive (https://drive.google.com/file/d/10qHQQDz7gKGuPXW_bbjYMtK-ASKiF2c1/view?usp=sharing)
 [ecommerce_pipeline_azure_databricks.zip](https://github.com/user-attachments/files/20989444/ecommerce_pipeline_azure_databricks.zip)
 [Azure Data Engineer Resume (4) (1).pdf](https://github.com/user-attachments/files/20989450/Azure.Data.Engineer.Resume.4.1.pdf)
 
