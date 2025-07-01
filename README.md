@@ -17,9 +17,11 @@ This project demonstrates a full **end-to-end data pipeline** for an e-commerce 
 ---
 
 ## 📁 Folder Structure ecommerce_pipeline_azure_databricks.zip
-## 📁 complete Structure link via google drive (https://drive.google.com/file/d/10qHQQDz7gKGuPXW_bbjYMtK-ASKiF2c1/view?usp=sharing)
 [ecommerce_pipeline_azure_databricks.zip](https://github.com/user-attachments/files/20989444/ecommerce_pipeline_azure_databricks.zip)
 [Azure Data Engineer Resume (4) (1).pdf](https://github.com/user-attachments/files/20989450/Azure.Data.Engineer.Resume.4.1.pdf)
+
+## 📁 complete Structure link via google drive (https://drive.google.com/file/d/10qHQQDz7gKGuPXW_bbjYMtK-ASKiF2c1/view?usp=sharing)
+
 
 
 
